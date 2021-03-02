@@ -1,0 +1,7 @@
+C:\Users\ViktorHerald\Desktop\FYP\smallFYP\mainFYP\mainFYP\bin\Debug\mainFYP.exe.config
+C:\Users\ViktorHerald\Desktop\FYP\smallFYP\mainFYP\mainFYP\bin\Debug\mainFYP.exe
+C:\Users\ViktorHerald\Desktop\FYP\smallFYP\mainFYP\mainFYP\bin\Debug\mainFYP.pdb
+C:\Users\ViktorHerald\Desktop\FYP\smallFYP\mainFYP\mainFYP\obj\Debug\mainFYP.csproj.CoreCompileInputs.cache
+C:\Users\ViktorHerald\Desktop\FYP\smallFYP\mainFYP\mainFYP\obj\Debug\mainFYP.exe
+C:\Users\ViktorHerald\Desktop\FYP\smallFYP\mainFYP\mainFYP\obj\Debug\mainFYP.pdb
+C:\Users\ViktorHerald\Desktop\FYP\smallFYP\mainFYP\mainFYP\obj\Debug\mainFYP.csprojAssemblyReference.cache
